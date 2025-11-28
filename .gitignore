@@ -1,0 +1,8 @@
+__pychache__
+venv/
+.env
+
+.vscode/
+
+app/routers/trans_redis.py 
+app/worker.py
